@@ -1,0 +1,632 @@
+fileFormatVersion: 2
+guid: 46a34572ce67ff44fbe3cf89b1b39a95
+timeCreated: 1579981478
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Custom Sprite Sheet_0
+    21300002: Custom Sprite Sheet_1
+    21300004: Custom Sprite Sheet_2
+    21300006: Custom Sprite Sheet_3
+    21300008: Custom Sprite Sheet_4
+    21300010: Custom Sprite Sheet_5
+    21300012: Custom Sprite Sheet_6
+    21300014: Custom Sprite Sheet_7
+    21300016: Custom Sprite Sheet_8
+    21300018: Custom Sprite Sheet_9
+    21300020: Custom Sprite Sheet_10
+    21300022: Custom Sprite Sheet_11
+    21300024: Custom Sprite Sheet_12
+    21300026: Custom Sprite Sheet_13
+    21300028: Custom Sprite Sheet_14
+    21300030: Custom Sprite Sheet_15
+    21300032: Custom Sprite Sheet_16
+    21300034: Custom Sprite Sheet_17
+    21300036: Custom Sprite Sheet_18
+    21300038: Custom Sprite Sheet_19
+    21300040: Custom Sprite Sheet_20
+    21300042: Custom Sprite Sheet_21
+    21300044: Custom Sprite Sheet_22
+    21300046: Custom Sprite Sheet_23
+    21300048: Custom Sprite Sheet_24
+    21300050: Custom Sprite Sheet_25
+    21300052: Custom Sprite Sheet_26
+    21300054: Custom Sprite Sheet_27
+    21300056: Custom Sprite Sheet_28
+    21300058: Custom Sprite Sheet_29
+    21300060: Custom Sprite Sheet_30
+    21300062: Custom Sprite Sheet_31
+    21300064: Custom Sprite Sheet_32
+    21300066: Custom Sprite Sheet_33
+    21300068: Custom Sprite Sheet_34
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 12, y: 272, z: 611, w: 13}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Custom Sprite Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 272
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Sprite Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 272
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Sprite Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 272
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Sprite Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 272
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Sprite Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 272
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Sprite Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 272
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Sprite Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 272
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Sprite Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 272
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Sprite Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 260
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Sprite Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 227
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Sprite Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 227
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Sprite Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 183
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Sprite Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 183
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Sprite Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 183
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Sprite Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 183
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Sprite Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 183
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Sprite Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 183
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Sprite Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 183
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Sprite Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 183
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Sprite Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 138
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Sprite Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 138
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Sprite Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 138
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Sprite Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 138
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Sprite Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 138
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Sprite Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 138
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Sprite Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 138
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Sprite Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 138
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Sprite Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 93
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Sprite Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 93
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Sprite Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 93
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Sprite Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 93
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Sprite Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 48
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Sprite Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 48
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Sprite Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 48
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Sprite Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 48
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
